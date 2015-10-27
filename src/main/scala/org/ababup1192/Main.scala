@@ -43,7 +43,7 @@ object Main {
 
   def printMessage(message: String): Unit = {
     println("\u001b[H\u001b[2J")
-    println("*****Scalin*****")
+    println("*****Scaline*****")
     val userStr = currentUser.map(user => s"ユーザ [${user.id}, ${user.name}]").getOrElse("[No User]")
     print(userStr + "\n\n\n\n")
     print(message)
