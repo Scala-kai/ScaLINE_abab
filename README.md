@@ -1,6 +1,8 @@
 # ScaLINE
 ScalaでLINE()もどきもどき CUIアプリ
 
+## シナリオ
+
     c: uni, うに, uni@gmail.com, 090-0000-0001
     c: kani, かに, kani@gmail.com, 090-0000-0002
     c: ikura, いくら, ikura@gmail.com, 090-0000-0003
